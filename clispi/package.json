@@ -1,0 +1,26 @@
+{
+    "name": "clispi",
+    "version": "1.0.0",
+    "description": "Command line integrated scheduler, planner, issue raiser.",
+    "main": "bin/app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/youktinath/command-line-integrated-schedule-plan-issue.git"
+    },
+    "keywords": [
+        "cli"
+    ],
+    "author": "Youktinath Bhowmick",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/youktinath/command-line-integrated-schedule-plan-issue/issues"
+    },
+    "homepage": "https://github.com/youktinath/command-line-integrated-schedule-plan-issue#readme",
+    "dependencies": {
+        "commander": "^9.4.0",
+        "inquirer": "^9.1.1"
+    }
+}
