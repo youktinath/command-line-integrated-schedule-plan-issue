@@ -1,6 +1,6 @@
 {
     "name": "clispi",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Command line integrated scheduler, planner, issue raiser.",
     "main": "bin/app.js",
     "scripts": {
